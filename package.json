@@ -1,0 +1,21 @@
+{
+  "name": "miel-loader",
+  "version": "0.0.0",
+  "description": "miel loader module for webpack",
+  "author": "Thomas Collardeau <thomas@collardeau.com>",
+  "keywords": [
+    "webpack",
+    "loader",
+    "miel",
+    "transpile"
+  ],
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/collardeau/miel-loader"
+  },
+  "bugs": "https://github.com/collardeau/miel-loader/issues",
+  "dependencies": {
+    "miel": "0.0.x"
+  }
+}
